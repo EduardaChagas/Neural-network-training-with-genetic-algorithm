@@ -1,0 +1,26 @@
+10/05/2018 12:37:36 AM - INFO - ***Evolving 5 generations with population 20*** Dataset cifar10
+10/05/2018 12:37:36 AM - INFO - ***Doing generation 1 of 5***
+11/05/2018 05:15:54 PM - INFO - Generation average: 40.90%
+11/05/2018 05:15:54 PM - INFO - --------------------------------------------------------------------------------
+11/05/2018 05:15:54 PM - INFO - ***Doing generation 2 of 5***
+11/05/2018 07:29:12 PM - INFO - Generation average: 41.99%
+11/05/2018 07:29:12 PM - INFO - --------------------------------------------------------------------------------
+11/05/2018 07:29:12 PM - INFO - ***Doing generation 3 of 5***
+11/05/2018 10:12:16 PM - INFO - Generation average: 44.25%
+11/05/2018 10:12:16 PM - INFO - --------------------------------------------------------------------------------
+11/05/2018 10:12:16 PM - INFO - ***Doing generation 4 of 5***
+12/05/2018 02:30:42 AM - INFO - Generation average: 47.83%
+12/05/2018 02:30:42 AM - INFO - -------------------------------------------------------------------------------
+12/05/2018 02:30:42 AM - INFO - ***Doing generation 5 of 5***
+12/05/2018 07:45:25 AM - INFO - Generation average: 49.42%
+12/05/2018 07:45:25 AM - INFO - -------------------------------------------------------------------------------
+12/05/2018 07:45:25 AM - INFO - {'nb_neurons': 512, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'adam'}
+12/05/2018 07:45:25 AM - INFO - Network accuracy: 49.32%
+12/05/2018 07:45:25 AM - INFO - {'nb_neurons': 512, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adamax'}
+12/05/2018 07:45:25 AM - INFO - Network accuracy: 54.05%
+12/05/2018 07:45:25 AM - INFO - {'nb_neurons': 512, 'nb_layers': 2, 'activation': 'elu', 'optimizer': 'adamax'}
+12/05/2018 07:45:25 AM - INFO - Network accuracy: 55.56%
+12/05/2018 07:45:25 AM - INFO - {'nb_neurons': 768, 'nb_layers': 2, 'activation': 'elu', 'optimizer': 'adamax'}
+12/05/2018 07:45:25 AM - INFO - Network accuracy: 56.03%
+12/05/2018 07:45:25 AM - INFO - {'nb_neurons': 768, 'nb_layers': 2, 'activation': 'elu', 'optimizer': 'adamax'}
+12/05/2018 07:45:25 AM - INFO - Network accuracy: 56.03%
